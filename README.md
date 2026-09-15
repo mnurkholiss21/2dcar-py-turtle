@@ -1,6 +1,6 @@
 # 2D Car with Python Turtle
 
-A detailed 2D car illustration created with Python's built-in `turtle` module.
+A not really detailed 2D car illustration created with Python's built-in `turtle` module.
 The drawing uses polygons, ellipses, circles, layered colors, and shadows to
 create a car with a pseudo-3D appearance.
 
@@ -8,7 +8,7 @@ create a car with a pseudo-3D appearance.
 
 When the program runs, it opens a Turtle graphics window containing:
 
-- A detailed red car body
+- Not really detailed red car body
 - Windows with highlights and reflections
 - Wheels with rims and spokes
 - Headlights, taillights, grille, bumper, mirrors, and antenna
